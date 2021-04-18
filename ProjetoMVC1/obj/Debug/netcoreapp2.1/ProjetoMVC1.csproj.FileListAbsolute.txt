@@ -1,0 +1,96 @@
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.deps.json
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.runtimeconfig.json
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.dll
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.pdb
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.Views.dll
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.Views.pdb
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.AssemblyInfo.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorAssemblyInfo.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorAssemblyInfo.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.TagHelpers.input.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.TagHelpers.output.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorCoreGenerate.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorTargetAssemblyInfo.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorTargetAssemblyInfo.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.Views.pdb
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.dll
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.pdb
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.genruntimeconfig.cache
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.csproj.CopyComplete
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\Andre\source\repos\ProjetoMVC1\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.deps.json
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.runtimeconfig.json
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.runtimeconfig.dev.json
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.dll
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.pdb
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.Views.dll
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\bin\Debug\netcoreapp2.1\ProjetoMVC1.Views.pdb
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.csprojAssemblyReference.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.AssemblyInfoInputs.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.AssemblyInfo.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorAssemblyInfo.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorAssemblyInfo.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.TagHelpers.input.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.TagHelpers.output.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorCoreGenerate.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorTargetAssemblyInfo.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.RazorTargetAssemblyInfo.cs
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.Views.pdb
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.dll
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.pdb
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.genruntimeconfig.cache
+C:\Users\Andre\source\Projetos Finalizados\ProjetoMVC1 C#\ProjetoMVC1\obj\Debug\netcoreapp2.1\ProjetoMVC1.csproj.CopyComplete
